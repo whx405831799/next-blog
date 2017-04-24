@@ -1,7 +1,7 @@
 title: Redis-3.命令之list,set,sorted set
 date: 2017/01/15 19:10:01
 categories:
-- JAVA服务端-redis
+- 缓存
 tags:
 - redis
 ---

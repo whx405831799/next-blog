@@ -1,7 +1,7 @@
 title: Redis-2.数据类型
 date: 2017/01/03 19:06:06
 categories:
-- JAVA服务端-redis
+- 缓存
 tags:
 - redis
 ---

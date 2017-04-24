@@ -1,7 +1,7 @@
 title: Redis-4.深入HyperLogLog、事务、发布订阅等
 date: 2017/02/05 19:58:01
 categories:
-- JAVA服务端-redis
+- 缓存
 tags:
 - redis
 ---

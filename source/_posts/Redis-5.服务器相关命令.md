@@ -1,7 +1,7 @@
 title: Redis-5.服务器相关命令
 date: 2017/02/06 20:38:03
 categories:
-- JAVA服务端-redis
+- 缓存
 tags:
 - redis
 ---
